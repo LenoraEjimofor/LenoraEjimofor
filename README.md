@@ -1,6 +1,6 @@
-[![MasterHead](https://its.hku.hk/wp-content/uploads/software-githubCopilot_1-1536x384.jpg)](https://linktr.ee/lenoraejimofor)
+[![MasterHead](https://raw.githubusercontent.com/iammert/TileProgressView/main/art/animatedart.gif)](https://linktr.ee/lenoraejimofor)
 <h1 align="center">Hi 👋, I'm Lenora Ejimofor</h1>
-<h3 align="center">Aspiring Data Analyst | Passionate About Turning Data into Insights</h3>
+<h3 align="center">Data Analyst | Passionate About Turning Data into Insights</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a76a24e5ac13898b4edd122abfb646130c01e55479cd2c291516d2f596bd5112/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313230302f302a64492d6f384833693077363653704b372e676966">
 
