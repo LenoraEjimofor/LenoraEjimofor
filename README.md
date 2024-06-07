@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/iammert/TileProgressView/main/art/animatedart.gif)](https://linktr.ee/lenoraejimofor)
+[![MasterHead](https://shergroup.com/wp-content/uploads/2021/07/Make-Sense-of-Your-Analytics.gif)](https://linktr.ee/lenoraejimofor)
 <h1 align="center">Hi 👋, I'm Lenora Ejimofor</h1>
 <h3 align="center">Data Analyst | Passionate About Turning Data into Insights</h3>
 
