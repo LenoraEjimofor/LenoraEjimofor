@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **data analysis projects**
 - 📝 Check out my portfolio [here](https://linktr.ee/lenoraejimofor)
 - 💬 Ask me about **Power BI, Excel, and Data Visualization**
-- 📫 How to reach me: **Ejimcecilia@gmail.com**
+- 📫 How to reach me: **@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
